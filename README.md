@@ -34,6 +34,3 @@ The dataset contains:
 | Marketing Spend | Independent variable (numerical) |
 | State | Independent variable (categorical) |
 | Profit | Dependent variable (target) |
-
-Dataset file:
-
