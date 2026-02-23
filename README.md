@@ -21,7 +21,7 @@ This project covers:
 - Data visualization
 - Extracting the regression equation
 
----
+----
 
 ## 📂 Dataset Description
 
